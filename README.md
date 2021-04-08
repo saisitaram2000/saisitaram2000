@@ -21,6 +21,12 @@
 
 </br>
 
+### Other tools and preferences
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src='https://img.shields.io/badge/-Ubuntu-%23c64423?style=flat&logo=ubuntu&logoColor=yellow'> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"> 
+
+</br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saisitaram2000&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=saisitaram2000&layout=compact&theme=highcontrast)
