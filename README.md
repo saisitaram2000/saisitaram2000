@@ -27,6 +27,19 @@
 
 </br>
 
+### Find me here 🌍
+[<img align="left" alt="saisitaram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="saisitaram | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+</br>
+</br>
+
+
+
+[linkedin]: https://www.linkedin.com/in/saisitaram-vaddavalli-546252196/
+[gmail]: mailto:saisitaramvaddavalli@gmail.com
+
+</br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saisitaram2000&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=saisitaram2000&layout=compact&theme=highcontrast)
