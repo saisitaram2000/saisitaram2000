@@ -17,7 +17,7 @@
 </br>
 
 ### Web Technologies
-<img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic'> <img src='https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white'> <img src='https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white'> <img src="https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white"> <img src='https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white'>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white'> <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic'> <img src='https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white'> <img src='https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white'> <img src="https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white"> <img src='https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white'>
 
 </br>
 
